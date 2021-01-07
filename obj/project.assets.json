@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\mathe\\.nuget\\packages\\": {}
+    "C:\\Users\\juanv\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\atividadess\\Projeto_Passagens_Aereas\\Projeto_Passagens_Aereas.csproj",
-      "projectName": "Projeto_Passagens_Aereas",
-      "projectPath": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\atividadess\\Projeto_Passagens_Aereas\\Projeto_Passagens_Aereas.csproj",
-      "packagesPath": "C:\\Users\\mathe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\atividadess\\Projeto_Passagens_Aereas\\obj\\",
+      "projectUniqueName": "C:\\Users\\Matheus\\Desktop\\DEV\\back-end.csproj",
+      "projectName": "Array",
+      "projectPath": "C:\\Users\\Matheus\\Desktop\\DEV\\back-end.csproj",
+      "packagesPath": "C:\\Users\\Matheus\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Matheus\\Desktop\\DEV\\back-end\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\mathe\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Matheus\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
